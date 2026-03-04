@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# SQLite database
+db.sqlite3
+database.db
+
+# Django stuff
+*.log
+staticfiles/
+media/
+
+# Migrations (optional – see note below)
+# store/migrations/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
